@@ -12,6 +12,22 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bensky-sainvilus#gh-dark-mode-only)
 [<img align="left" alt= "OOS1 | LinkedIn" width="22px" src="https: //cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/skyben1#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/skyben1#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/bensky-sainvilus#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/bensky-sainvilus#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/skybennation#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/skybennation#gh-dark-mode-only)
+
+
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
