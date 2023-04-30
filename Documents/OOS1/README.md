@@ -7,8 +7,8 @@
 - 2023 Goals: Learn more about creating a smal website.
 - Fun fact: I love to draw and play videogames.
 ### Connect with me:
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://skyben.business.site#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://skyben.business.site#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com#gh-dark-mode-only)
