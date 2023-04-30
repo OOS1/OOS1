@@ -8,6 +8,8 @@
 - Fun fact: I love to draw and play videogames.
 - 
 ### Connect with me:
+[![website](./img/linkedin-light.svg)]((https://www.linkedin.com/in/bensky-sainvilus#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bensky-sainvilus#gh-dark-mode-only)
 [<img align="left" alt= "OOS1 | LinkedIn" width="22px" src="https: //cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 
