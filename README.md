@@ -4,7 +4,7 @@
 
 - I’m currently learning everything As i go.😁
 - I’m looking to collaborate with others to learn more.
-- 2023 Goals: Learn more about creating a smal website.
+- 2023 Goals: Learn more about creating a small website.
 - Fun fact: I love to draw and play videogames.
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://skyben.business.site#gh-light-mode-only)
