@@ -7,20 +7,20 @@
 - 2023 Goals: Learn more about creating a small website.
 - Fun fact: I love to draw and play videogames.
 ### Connect with me:
-![website](./img/globe-light.svg)](https://skyben.business.site#gh-light-mode-only)
-![website](./img/globe-dark.svg)](https://skyben.business.site#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://skyben.business.site#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://skyben.business.site#gh-dark-mode-only)
 &nbsp;&nbsp;
-![website](./img/youtube-light.svg)](https://youtube.com#gh-light-mode-only)
-![website](./img/youtube-dark.svg)](https://youtube.com#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-![website](./img/twitter-light.svg)](https://twitter.com/skyben1#gh-light-mode-only)
-![website](./img/twitter-dark.svg)](https://twitter.com/skyben1#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/skyben1#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/skyben1#gh-dark-mode-only)
 &nbsp;&nbsp;
-![website](./img/linkedin-light.svg)](https://linkedin.com/in/bensky-sainvilus#gh-light-mode-only)
-![website](./img/linkedin-dark.svg)](https://linkedin.com/in/bensky-sainvilus#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/bensky-sainvilus#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/bensky-sainvilus#gh-dark-mode-only)
 &nbsp;&nbsp;
-![website](./img/instagram-light.svg)](https://instagram.com/skybennation#gh-light-mode-only)
-![website](./img/instagram-dark.svg)](https://instagram.com/skybennation#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/skybennation#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/skybennation#gh-dark-mode-only)
 
 
 
