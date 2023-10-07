@@ -10,7 +10,7 @@
 [![website](./img/globe-light.svg)](https://skyben.business.site#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://skyben.business.site#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com#gh-light-mode-only)
+[![website](./img/YouTube-light-logo-(2017).svg)](https://youtube.com#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/skyben1#gh-light-mode-only)
