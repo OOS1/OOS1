@@ -12,7 +12,9 @@
 <img hight="220" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </br>
 </br>
+<br>
  If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+ </br>
 <a href="mailto:ashutosh.saxena.benskysain@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
