@@ -7,20 +7,35 @@
 - 2023 Goals: Learn more about creating a small website.
 - Fun fact: I love to draw and play videogames.
 ### Connect with me:
+<p>
+ </br>
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+<a href="mailto:ashutosh.saxena.benskysain@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/bensky-sainvilus/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://www.reddit.com/user/X_Ashutosh_X">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198182224539/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</a>
+ </p>
+ 
+
+
+
+
+
 [![website](./img/globe-light.svg)](https://skyben.business.site#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://skyben.business.site#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/YouTube-light-logo-(2017).svg)](https://youtube.com#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/skyben1#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/skyben1#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/bensky-sainvilus#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/bensky-sainvilus#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/skybennation#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/skybennation#gh-dark-mode-only)
 
 
 # Languages & Tools 👨‍💻 🛠:
