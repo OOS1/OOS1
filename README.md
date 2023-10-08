@@ -34,4 +34,7 @@
 [<img align="left" alt="Terminal" width="26px" src="terminal-dark.svg" />](https://www.youtube.com/@Relaxspace1/videos#gh-dark-mode-only)
 <br />
 
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+
 [<img align="left" alt="Terminal" width="26px" src="https://icons8.com/icon/13930/linkedin" />](https://www.linkedin.com/in/bensky-sainvilus)
