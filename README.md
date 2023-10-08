@@ -34,5 +34,4 @@
 [<img align="left" alt="Terminal" width="26px" src="terminal-dark.svg" />](https://www.youtube.com/@Relaxspace1/videos#gh-dark-mode-only)
 <br />
 
-![linkedin](https://www.linkedin.com/in/bensky-sainvilus)
-https://icons8.com/icon/13930/linkedin
+![linkedin][<img align="left" alt="Terminal" width="26px" src="https://icons8.com/icon/13930/linkedin" />](https://www.linkedin.com/in/bensky-sainvilus)
