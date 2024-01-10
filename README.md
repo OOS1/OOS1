@@ -9,7 +9,7 @@
 ### - Hobbies : 
 - ✨ Gaming
 - ✨ Watching Anime
-- ✨ working on cars/attending car meets.
+- ✨ working on cars.
 - ✨ Gym
 ### Connect with me:
 <p>
@@ -18,13 +18,24 @@
 </br>
 </br>
 <br>
- If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+"Feel free to connect with me here on GitHub! or one of the links bellow. Whether you have questions about my projects, want to collaborate on coding challenges, or just want to discuss tech and programming, I'm always open to connecting with fellow developers."
  </br>
-<a href="mailto:ashutosh.saxena.benskysain@gmail.com">
+ </br>
+<a href="mailto:benskysain@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/bensky-sainvilus/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</a>
+   <a href="https://www.youtube.com/@skybennation">
+ <img align="left" alt="youtube" width="40" hight="100" src="https://github.com/OOS1/OOS1/blob/main/logos/youtube-logo-transparent.png" />
+</a>
+<a href="https://www.twitch.tv/skybenn">
+  <img align="left" alt="twitch" width="40" height="40" src="https://github.com/OOS1/OOS1/blob/main/logos/2993756_twitch_social%20media_icon.png"
+</a>
+<a href="https://card.psnprofiles.com/1/skyben12.png">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</a>
 </br>
 </br>
 </br>
@@ -39,10 +50,6 @@
  </p>
 -->
 </br>
-</br>
-</br>
-</br>
-</br>
 
 ### Languages & Tools 👨‍💻 🛠:
 
@@ -52,7 +59,6 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html%402x.png" alt="html" width="120" hight="60">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js%402x.png" alt="javascript" width="120" hight="60">
 <!--
- <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
@@ -64,7 +70,7 @@
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="logos/css3.svg" alt="css3"  width="40" hight="50">
 </p>
 </br>
 </br>
