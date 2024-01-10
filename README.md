@@ -13,9 +13,10 @@
 - ✨ Gym
 ### Connect with me:
 <p>
- </br>
-<img hight="220" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<!--<img height="220" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+-->
 </br>
+<img height="220" width="450" align="right" alt="gif" src="https://github.com/OOS1/OOS1/blob/main/gif/luffy-gear-5-one-piece.gif">
 </br>
 <br>
 "Feel free to connect with me here on GitHub! or one of the links bellow. Whether you have questions about my projects, want to collaborate on coding challenges, or just want to discuss tech and programming, I'm always open to connecting with fellow developers."
