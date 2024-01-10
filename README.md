@@ -4,12 +4,13 @@
 
   - ✨I’m currently learning everything As i go.😁
   - ✨I’m looking to collaborate with others to learn more.
-  - ✨2023 Goals: Learn more about creating a small website.
+  - ✨2024 Goals: Learn more about creating a small website.
   - ✨Fun facts: I love to draw.
 ### - Hobbies : 
 - ✨ Gaming
 - ✨ Watching Anime
 - ✨ working on cars/attending car meets.
+- ✨ Gym
 ### Connect with me:
 <p>
  </br>
