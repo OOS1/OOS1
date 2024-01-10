@@ -35,7 +35,7 @@
   <img align="left" alt="twitch" width="40" height="40" src="https://github.com/OOS1/OOS1/blob/main/logos/2993756_twitch_social%20media_icon.png"
 </a>
 <a href="https://card.psnprofiles.com/1/skyben12.png">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" height="50" align=""left>
 </a>
 </br>
 </br>
