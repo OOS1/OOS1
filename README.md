@@ -1,6 +1,6 @@
 # Hi there, I'm Bensky - aka [OOS1] 👋 
 
-## I'm a student Developer and a gamer!!
+## I'm a student Web Developer and a gamer!!
 
 - ✨I’m currently learning everything as I go. 😁
 - ✨I’m looking to collaborate with others to learn more.
