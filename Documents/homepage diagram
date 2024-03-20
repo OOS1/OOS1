@@ -1,9 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T18:23:50.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" version="24.0.6" etag="DuQWJ-Dp616LxtVJlijB" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T18:41:19.906Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="-Tsiiqrb-Gu0d3ImzTQQ" version="24.0.7" type="github">
   <diagram name="Page-1" id="qW-W7wI4oW6eKI6CVb6D">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XJuLiGFw9z6vd5dtD8ym-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="880" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="XJuLiGFw9z6vd5dtD8ym-2" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;my_portfolio&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="XJuLiGFw9z6vd5dtD8ym-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XJuLiGFw9z6vd5dtD8ym-3" value="https://www.my_portfolio.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="XJuLiGFw9z6vd5dtD8ym-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XJuLiGFw9z6vd5dtD8ym-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XJuLiGFw9z6vd5dtD8ym-1">
+          <mxGeometry y="110" width="850" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XJuLiGFw9z6vd5dtD8ym-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XJuLiGFw9z6vd5dtD8ym-1">
+          <mxGeometry y="940" width="850" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XJuLiGFw9z6vd5dtD8ym-7" value="&lt;h1 style=&quot;font-size: 32px; caret-color: rgb(231, 76, 60); color: rgb(231, 76, 60); font-family: Arial, sans-serif; background-color: rgb(44, 62, 80);&quot;&gt;Welcome to My Webpage&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XJuLiGFw9z6vd5dtD8ym-1">
+          <mxGeometry x="50" y="120" width="710" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;ul style=&quot;font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; display: flex; justify-content: space-around; list-style-type: none; border-radius: 100vw 0px 0px 100vw; caret-color: rgb(231, 76, 60); color: rgb(231, 76, 60); font-family: Arial, sans-serif; text-align: center;&quot;&gt;&lt;li style=&quot;padding: 1rem 2rem; margin-left: 2rem; border-radius: 100vw;&quot;&gt;&lt;a style=&quot;color: var(--secondary-color); text-decoration: none; margin: 0px 10px; font-size: 18px; background-color: rgb(0, 0, 0);&quot; href=&quot;http://127.0.0.1:5500/index.html&quot; class=&quot;active&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding: 1rem 2rem; margin-left: 2rem; border-radius: 100vw;&quot;&gt;&lt;a style=&quot;color: var(--accent-color); text-decoration: none; margin: 0px 10px; font-size: 18px; background-color: rgb(0, 0, 0);&quot; href=&quot;http://127.0.0.1:5500/index.html#&quot;&gt;About me&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding: 1rem 2rem; margin-left: 2rem; border-radius: 100vw;&quot;&gt;&lt;a style=&quot;color: var(--accent-color); text-decoration: none; margin: 0px 10px; font-size: 18px; background-color: rgb(0, 0, 0);&quot; href=&quot;http://127.0.0.1:5500/index.html#&quot;&gt;Connect&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding: 1rem 2rem; margin-left: 2rem; border-radius: 100vw;&quot;&gt;&lt;a style=&quot;color: var(--accent-color); text-decoration: none; margin: 0px 10px; font-size: 18px; background-color: rgb(0, 0, 0);&quot; href=&quot;http://127.0.0.1:5500/index.html#&quot;&gt;null&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" link="&lt;ul style=&quot;font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; display: flex; justify-content: space-around; list-style-type: none; border-radius: 100vw 0px 0px 100vw; caret-color: rgb(231, 76, 60); color: rgb(231, 76, 60); font-family: Arial, sans-serif; text-align: center; background-color: rgb(44, 62, 80);&quot;&gt;&lt;li style=&quot;padding: 1rem 2rem; margin-left: 2rem; border-radius: 100vw;&quot;&gt;&lt;a style=&quot;color: var(--secondary-color); text-decoration: none; margin: 0px 10px; font-size: 18px;&quot; href=&quot;http://127.0.0.1:5500/index.html&quot; class=&quot;active&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding: 1rem 2rem; margin-left: 2rem; border-radius: 100vw;&quot;&gt;&lt;a style=&quot;color: var(--accent-color); text-decoration: none; margin: 0px 10px; font-size: 18px;&quot; href=&quot;http://127.0.0.1:5500/index.html#&quot;&gt;About me&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding: 1rem 2rem; margin-left: 2rem; border-radius: 100vw;&quot;&gt;&lt;a style=&quot;color: var(--accent-color); text-decoration: none; margin: 0px 10px; font-size: 18px;&quot; href=&quot;http://127.0.0.1:5500/index.html#&quot;&gt;Connect&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding: 1rem 2rem; margin-left: 2rem; border-radius: 100vw;&quot;&gt;&lt;a style=&quot;color: var(--accent-color); text-decoration: none; margin: 0px 10px; font-size: 18px;&quot; href=&quot;http://127.0.0.1:5500/index.html#&quot;&gt;null&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" id="XJuLiGFw9z6vd5dtD8ym-9">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XJuLiGFw9z6vd5dtD8ym-1">
+            <mxGeometry y="240" width="850" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="XJuLiGFw9z6vd5dtD8ym-4" value="Homepage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" width="105" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
