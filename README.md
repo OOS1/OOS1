@@ -27,12 +27,19 @@ const OOS1 = {
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html%402x.png" alt="HTML" height="35"/>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS3" height="35"/>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js%402x.png" alt="JavaScript" height="35"/>
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="Python" height="35"/>
+    <!-- Web Development -->
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html%402x.png" alt="HTML" width="100"/>
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS3" width="100"/>
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js%402x.png" alt="JavaScript" width="100"/>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="PHP" width="100"/>
+  
+  <!-- Programming -->
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="Python" width="100"/>
+  
+  <!-- Markup & Transformation -->
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML" height="35"/>
+  <img src="https://img.shields.io/badge/XSLT-1F6B75?style=for-the-badge&logo=xml&logoColor=white" alt="XSLT" height="35"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" height="35"/>
 </p>
 
 ### 🔧 Tools & Platforms
