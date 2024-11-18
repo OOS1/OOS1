@@ -44,12 +44,24 @@ const OOS1 = {
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="VS Code" height="35"/>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/mac.png" alt="Mac" height="35"/>
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="PC" height="35"/>
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="Edge" height="35"/>
+  <!-- IDEs & Editors -->
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="VS Code" height="40"/>
+  
+  <!-- Operating Systems -->
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/mac.png" alt="Mac" height="40"/>
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="PC" height="40"/>
+  
+  <!-- Browsers -->
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="Edge" height="40"/>
+  
+  <!-- Development Tools -->
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" height="40"/>
+  
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40"/>
 </p>
-
 ### 🌐 Let's Connect!
 <p align="center">
   <a href="mailto:benskysain@gmail.com">
