@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey there, I'm OOS1</h1>
+  <h1>👋🏽 Hey there, I'm OOS1</h1>
   <h3>Full-Stack Developer in Training | Creative Coder | Gaming Enthusiast</h3>
 </div>
 
@@ -11,13 +11,13 @@
 
 ### 🎯 Current Focus
 - 🌱 Mastering full-stack web development
-- 🤝 Seeking collaboration opportunities on innovative projects
+- 🫱🏽‍🫲🏾 Seeking collaboration opportunities on innovative projects
 - 🎮 Building a bridge between gaming and technology
-- 💪 Balancing code and fitness
+- 💪🏿 Balancing code and fitness
 
 ### 🎮 Beyond the Code
 ```javascript
-const bensky = {
+const OOS1 = {
     hobbies: ["Gaming", "Anime", "Automotive", "Fitness"],
     currentGoal: "Creating impactful web experiences",
     passions: ["Web Development", "Creative Design", "Problem Solving"],
