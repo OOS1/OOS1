@@ -31,6 +31,7 @@ const bensky = {
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS3" height="35"/>
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js%402x.png" alt="JavaScript" height="35"/>
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="Python" height="35"/>
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="PHP" width="100"/>
 </p>
 
 ### 🔧 Tools & Platforms
