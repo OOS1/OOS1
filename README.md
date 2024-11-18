@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey there, I'm Bensky</h1>
+  <h1>👋 Hey there, I'm OOS1</h1>
   <h3>Full-Stack Developer in Training | Creative Coder | Gaming Enthusiast</h3>
 </div>
 
