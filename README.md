@@ -74,13 +74,13 @@ const OOS1 = {
   <a href="https://www.linkedin.com/in/bensky-sainvilus/">
     <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://www.youtube.com/@skybennation">
+  <a href="https://www.youtube.com/@skybennn">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="YouTube" height="40"/>
   </a>
   <a href="https://www.twitch.tv/skybenn">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg" alt="Twitch" height="40"/>
   </a>
-  <a href="https://card.psnprofiles.com/1/skyben12.png">
+  <a href="https://card.psnprofiles.com/1/skybennn.png">
     <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="PSN" height="40"/>
   </a>
 </p>
