@@ -66,7 +66,7 @@ const OOS1 = {
   <!-- Database -->
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40"/>
 </p>
-### 🌐 Let's Connect!
+🌐 Let's Connect!
 <p align="center">
   <a href="mailto:benskysain@gmail.com">
     <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" alt="Email" height="40"/>
