@@ -1,19 +1,11 @@
-<div align="center">
-  <h1>👋🏽 Hey there, I'm OOS1</h1>
-  <h3>Full-Stack Developer in Training | Creative Coder | Gaming Enthusiast</h3>
-</div>
-
 <p align="center">
-  <img src="https://github.com/OOS1/OOS1/blob/main/gif/luffy-gear-5-one-piece.gif" width="400" alt="Luffy Gear 5"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+OOS1" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+in+Training;Creative+Coder;Gaming+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
-> 🚀 Passionate about coding, gaming, and continuous learning. Currently exploring the vast world of web development and creating digital experiences that matter.
-
-### 🎯 Current Focus
-- 🌱 Mastering full-stack web development
-- 🫱🏽‍🫲🏾 Seeking collaboration opportunities on innovative projects
-- 🎮 Building a bridge between gaming and technology
-- 💪🏿 Balancing code and fitness
+![Profile Views](https://komarev.com/ghpvc/?username=OOS1&color=blue)
 
 ### 🎮 Beyond the Code
 ```javascript
@@ -24,6 +16,11 @@ const OOS1 = {
     funFact: "I express my creativity through digital art"
 };
 ```
+
+
+###  Current Focus
+- 🌱 Mastering full-stack web development
+- 🫱🏽‍🫲🏾 Seeking collaboration opportunities on innovative projects
 
 ### 🛠️ Tech Stack
 <p align="center">
