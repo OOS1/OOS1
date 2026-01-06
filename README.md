@@ -83,7 +83,7 @@ const OOS1 = {
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OOS1&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <imgage src="https://github-readme-stats.vercel.app/api?username=OOS1&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </div>
 
 ---
